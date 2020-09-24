@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861216543818",
+    "firebase_url": "https://myspace-32da5.firebaseio.com",
+    "project_id": "myspace-32da5",
+    "storage_bucket": "myspace-32da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861216543818:android:61e1e49aa1d6c3d62242b3",
+        "android_client_info": {
+          "package_name": "com.richa.myspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861216543818-ina68u16k1p8fe4fokoo8qvb5s3m38nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richa.myspace",
+            "certificate_hash": "0d7c19b71accbe132238e5bb7def1349de9f1abb"
+          }
+        },
+        {
+          "client_id": "861216543818-jafqnd27op8tblfaqr5isj9v5r0898dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPiWTeMnqUjAIyyS35CdFlUJ-eugEW28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861216543818-jafqnd27op8tblfaqr5isj9v5r0898dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor="#fff"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/myspace"
+        android:title="MySpace"
+        android:icon="@drawable/diary"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#FD6A02"/>
+
+    <item
+        android:id="@+id/myprofile"
+        android:title="MyProfile"
+        android:icon="@drawable/profile"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#FD6A02"/>
+</menu>
